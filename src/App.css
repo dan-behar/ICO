@@ -1,0 +1,12 @@
+/* Estilos globales de Bootstrap */
+.container {
+  margin-top: 20px;
+}
+
+/* Estilos personalizados */
+.header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
